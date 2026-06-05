@@ -1,4 +1,4 @@
-# Milling Machine Failure Prediction
+# Прогнозирование отказов фрезерного станка
 
 Бинарная и multi-output классификация отказов фрезерного станка. Сравнение XGBoost, LightGBM, CatBoost.
 
